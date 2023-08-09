@@ -2,7 +2,7 @@
 [![Github follower](https://img.shields.io/github/followers/RyosukeDTomita?label=Follow&style=social)](https://github.com/RyosukeDTomita)
 
 ### Hi 👋, I'm sigma. I will be `SUPER HACKER`
-☺I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [solarized_dark].(https://ethanschoonover.com/solarized/)
+I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [solarized_dark](https://ethanschoonover.com/solarized/)
 
 * Security engineer
 * Linux hacker
