@@ -12,8 +12,17 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita/)
 
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt)
-![language](https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&layout=compact&theme=cobalt)
+<p>
+<a href="https://github.com/RyosukeDTomita">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
+</a>
+<a href="https://github.com/RyosukeDTomita">
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&layout=compact&theme=cobalt" />
+</a>
+</p>
+
+
+
 <!--
 **RyosukeDTomita/RyosukeDTomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
