@@ -17,7 +17,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita/)
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/RyosukeDTomita">
-  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&exlude_repo=memo,memo_archive20230212,memo_archive2022_03,article,WIP,news,Self-introduction&layout=compact&theme=cobalt" />
+  <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&exlude_repo=memo,memo_archive20230212,memo_archive2022_03,article,WIP,news,Self-introduction,&hide=html&layout=compact&theme=cobalt" />
 </a>
 </p>
 
