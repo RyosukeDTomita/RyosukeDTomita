@@ -21,7 +21,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita/)
 </a>
 </p>
 
-[![My Skills](https://skillicons.dev/icons?i=aws, bash, )](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,)](https://skillicons.dev)
 
 <!--
 **RyosukeDTomita/RyosukeDTomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
