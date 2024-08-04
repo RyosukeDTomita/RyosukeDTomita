@@ -1,3 +1,8 @@
+<!--
+**RyosukeDTomita/RyosukeDTomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
+-->
 ![profile_access_count](https://komarev.com/ghpvc/?username=RyosukeDTomita)
 [![Github follower](https://img.shields.io/github/followers/RyosukeDTomita?label=Follow&style=social)](https://github.com/RyosukeDTomita)
 
@@ -7,9 +12,15 @@ I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [
 * Security engineer
 * Linux hacker
 
-I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita/)
+I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita
 
 
+## MySkill
+
+[![My Skills](https://skillicons.dev/icons?i=aws,bash,githubactions,java,latex,py,react,ubuntu,vim,vscode)](https://skillicons.dev)
+
+
+## My Activity
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
 
 <p>
@@ -22,13 +33,3 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita/)
 </p>
 
 ---
-
-## MySkill
-
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,githubactions,java,latex,py,react,ubuntu,vim,vscode)](https://skillicons.dev)
-
-<!--
-**RyosukeDTomita/RyosukeDTomita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
--->
