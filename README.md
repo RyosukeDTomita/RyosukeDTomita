@@ -12,7 +12,7 @@ I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [
 * Security engineer
 * Linux hacker
 
-I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita
+I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 
 ## MySkill
