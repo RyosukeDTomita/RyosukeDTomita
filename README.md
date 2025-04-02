@@ -9,7 +9,7 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 ### Hi 👋, I'm sigma. I will be `SUPER HACKER`
 I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [solarized_dark](https://ethanschoonover.com/solarized/)
 
-* Security engineer
+* Security engineer, Sier, Developer
 * Linux hacker
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
@@ -17,8 +17,9 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 ## MySkill
 
-[![My Skills](https://skillicons.dev/icons?i=aws,bash,githubactions,java,latex,py,react,ubuntu,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,bash,java,lua,latex,py,flask,ts,react,deno,debian,ubuntu,vim,vscode)](https://skillicons.dev)
 
+---
 
 ## My Activity
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
