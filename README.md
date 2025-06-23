@@ -9,7 +9,9 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 ### Hi 👋, I'm sigma. I will be `SUPER HACKER`
 I love OSS. I love [Vim](https://www.vim.org/), [ubuntu](https://ubuntu.com/), [solarized_dark](https://ethanschoonover.com/solarized/)
 
-* Security engineer, Sier, Developer
+This is my [Profile Pages](https://ryosukedtomita.github.io/MyActivity/)
+
+* Security engineer, SIer, Developer
 * Linux hacker
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
