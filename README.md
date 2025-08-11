@@ -16,7 +16,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 ## MyExpericence
 
-[![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,bash,zsh,java,lua,latex,py,flask,ts,deno,debian,ubuntu,vim,vscode,obsidian)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,bash,java,lua,latex,py,flask,ts,deno,debian,ubuntu,vim,vscode,obsidian)](https://skillicons.dev)
 
 [see](https://github.com/tandpfun/skill-icons#readme)
 
