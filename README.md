@@ -18,7 +18,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,bash,java,lua,latex,py,flask,ts,deno,debian,ubuntu,vim,vscode,obsidian)](https://skillicons.dev)
 
-[see](https://github.com/tandpfun/skill-icons#readme)
+[icon](https://github.com/tandpfun/skill-icons#readme)
 
 ---
 
