@@ -18,12 +18,14 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 [![My Skills](https://skillicons.dev/icons?i=aws,docker,githubactions,nginx,bash,java,lua,latex,py,flask,ts,deno,debian,ubuntu,vim,vscode,obsidian)](https://skillicons.dev)
 
-[icon](https://github.com/tandpfun/skill-icons#readme)
+icon meaning --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ---
 
 ## My Activity
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
+<!--https://github-readme-streak-stats.herokuapp.com/demo/-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyosukeDTomita&theme=solarized-dark)](https://git.io/streak-stats)
 
 <p>
 <a href="https://github.com/RyosukeDTomita">
