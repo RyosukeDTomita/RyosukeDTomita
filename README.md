@@ -36,4 +36,3 @@ icon meaning --> [icon](https://github.com/tandpfun/skill-icons#readme)
 </a>
 </p>
 
----
