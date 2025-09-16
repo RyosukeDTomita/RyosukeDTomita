@@ -6,13 +6,15 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 ![profile_access_count](https://komarev.com/ghpvc/?username=RyosukeDTomita)
 [![Github follower](https://img.shields.io/github/followers/RyosukeDTomita?label=Follow&style=social)](https://github.com/RyosukeDTomita)
 
-### Hi 👋, I'm sigma. I will be `SUPER HACKER`
+## Hi 👋, I'm sigma. I will be `SUPER HACKER`
+
 I love OSS. I love Vim，Ubuntu，Solarized Dark.
 
 This is my **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
+---
 
 ## MyExpericence
 
@@ -23,16 +25,16 @@ icon meaning --> [icon](https://github.com/tandpfun/skill-icons#readme)
 ---
 
 ## My Activity
+
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
 <!--https://github-readme-streak-stats.herokuapp.com/demo/-->
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyosukeDTomita&theme=solarized-dark)](https://git.io/streak-stats)
 
-<p>
 <a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
 </a>
 <a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&exlude_repo=memo,memo_archive20230212,memo_archive2022_03,article,WIP,news,Self-introduction,&hide=html,css&layout=compact&theme=cobalt" />
 </a>
-</p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryosukedtomita" alt="ryosukedtomita" /></a> </p>
