@@ -48,7 +48,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 </table>
 
 
-icon meaning --> [icon](https://github.com/tandpfun/skill-icons#readme)
+icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ---
 
