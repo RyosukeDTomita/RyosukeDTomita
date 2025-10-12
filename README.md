@@ -35,13 +35,13 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 <td width="50%" align="center" valign="top">
 
 ### 💻 **Languages**
-<img src="https://skillicons.dev/icons?i=java,lua,py,ts,deno,nodejs,bash,latex,flask,react" />
+<img src="https://skillicons.dev/icons?i=java,lua,py,ts,deno,nodejs,bash,latex,haskell" />
 
 ### 📚 **Frameworks**
 <img src="https://skillicons.dev/icons?i=flask,react" />
 
 ### 🗄️ **Database**
-<img src="https://skillicons.dev/icons?i=redis,mysql" />  
+<img src="https://skillicons.dev/icons?i=redis,mysql,mongodb" />  
 
 </td>
 </tr>
