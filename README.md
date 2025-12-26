@@ -65,4 +65,4 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&exlude_repo=memo,memo_archive20230212,memo_archive2022_03,article,WIP,news,Self-introduction,&hide=html,css&layout=compact&theme=cobalt" />
 </a>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryosukedtomita&theme=nord" alt="ryosukedtomita" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryosukedtomita&theme=nord" alt="ryosukedtomita" /></a> </p> -->
