@@ -56,7 +56,9 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
 <!--https://github-readme-streak-stats.herokuapp.com/demo/-->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyosukeDTomita&theme=solarized-dark)](https://git.io/streak-stats)
+[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
+
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyosukeDTomita&theme=solarized-dark)](https://git.io/streak-stats)-->
 
 <a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
