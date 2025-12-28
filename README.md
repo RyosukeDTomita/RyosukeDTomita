@@ -54,9 +54,12 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ## My Activity
 
-![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryosukedtomita&theme=solarized_dark)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
 
-[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
+![top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)![top language repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)
+
+
+![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
 
 <!--<a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
