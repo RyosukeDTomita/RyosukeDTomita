@@ -55,16 +55,14 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 ## My Activity
 
 ![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
-<!--https://github-readme-streak-stats.herokuapp.com/demo/-->
-[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
 
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=RyosukeDTomita&theme=solarized-dark)](https://git.io/streak-stats)-->
+[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
 
 <a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
 </a>
-<a href="https://github.com/RyosukeDTomita">
+<!--<a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RyosukeDTomita&exlude_repo=memo,memo_archive20230212,memo_archive2022_03,article,WIP,news,Self-introduction,&hide=html,css&layout=compact&theme=cobalt" />
-</a>
+</a>-->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryosukedtomita&theme=nord" alt="ryosukedtomita" /></a> </p> -->
