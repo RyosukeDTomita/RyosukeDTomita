@@ -54,7 +54,7 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ## My Activity
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryosukedtomita&theme=solarized_dark)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak)
+![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryosukedtomita&theme=solarized_dark)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak) <-- I built this badge myself.
 
 ![top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)![top language repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)
 
