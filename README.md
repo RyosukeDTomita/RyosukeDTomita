@@ -13,8 +13,8 @@ I love OSS. I love Vim，Ubuntu，Solarized Dark.
 I've been really into Haskell lately.
 
 - **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
-- **[Blog made by Haskell library Hakyll](https://ryosukedtomita.github.io/myblog/)
-- **[Tech Blog](https://qiita.com/sigma_devsecops)
+- **[Blog made by Haskell library Hakyll](https://ryosukedtomita.github.io/myblog/)**
+- **[Tech Blog](https://qiita.com/sigma_devsecops)**
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
