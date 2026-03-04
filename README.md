@@ -10,7 +10,11 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 
 I love OSS. I love Vim，Ubuntu，Solarized Dark.
 
-This is my **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
+I've been really into Haskell lately.
+
+- **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
+- **[Blog made by Haskell library Hakyll](https://ryosukedtomita.github.io/myblog/)
+- **[Tech Blog](https://qiita.com/sigma_devsecops)
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
