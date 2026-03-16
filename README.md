@@ -15,7 +15,7 @@ I've been really into Haskell lately.
 - **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
 - **[Blog made by Haskell library Hakyll](https://ryosukedtomita.github.io/myblog/)**
 - **[Tech Blog](https://qiita.com/sigma_devsecops)**
-- **[Tech Blog (selected)](https://zenn.dev/sigma_tom)
+- **[Tech Blog (selected)](https://zenn.dev/sigma_tom)**
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
