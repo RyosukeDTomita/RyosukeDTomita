@@ -59,12 +59,13 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ## My Activity
 
-![stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryosukedtomita&theme=solarized_dark)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak) <-- I built this badge myself.
+<!-- カードは .github/workflows/profile-summary-cards.yml が毎日生成して profile-summary-card-output/ にコミットする -->
+![stats](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/3-stats.svg)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak) <-- I built this badge myself.
 
-![top language commit](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)![top language repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ryosukedtomita&theme=solarized_dark&exclude=html,Dockerfile,JavaScript)
+![top language commit](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)![top language repo](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 
 
-![github_activity_history](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=RyosukeDTomita&theme=solarized_dark)
+![github_activity_history](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/0-profile-details.svg)
 
 <!--<a href="https://github.com/RyosukeDTomita">
   <img align="left" height="170px" src="https://github-readme-stats.vercel.app/api?username=RyosukeDTomita&count_private=true&show_icons=true&theme=cobalt" />
