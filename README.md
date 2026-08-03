@@ -26,7 +26,7 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 - **Infrastructure**: AWS, nginx, Ubuntu
 - **CI/CD**: GitHub Actions
 - **Editors / Tools**: Neovim, Zed, VS Code, Obsidian
-- **Languages**: Java, Python, TypeScript, Haskell, Lua
+- **Languages**: Java, Python, TypeScript, Haskell, Lua, (Lisp / Scheme: Gauche)
 - **Runtimes / Frameworks**: Deno, Spring, Flask
 - **Database**: Redis, (MySQL)
 
