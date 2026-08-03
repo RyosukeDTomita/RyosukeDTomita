@@ -1,0 +1,28 @@
+name: GitHub-Profile-Summary-Cards
+
+# プロフィールカードのSVGを自前生成して profile-summary-card-output/ にコミットする。
+# 共有ホスト(github-profile-summary-cards.vercel.app)の障害に影響されないようにするため。
+on:
+  schedule:
+    - cron: "0 15 * * *" # 毎日 00:00 JST
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: generate-github-profile-summary-cards
+    permissions:
+      contents: write # AUTO_PUSH が checkout の GITHUB_TOKEN で push するため必要
+    steps:
+      - uses: actions/checkout@v4
+      - uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          # カード生成時のGitHub API問い合わせ用。読み取り権限のみでよい
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
+          EXCLUDE: "HTML,Dockerfile,JavaScript"
+          AUTO_PUSH: true
+          THEME: "solarized_dark" # 空にすると全テーマ生成
