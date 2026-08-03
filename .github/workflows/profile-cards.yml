@@ -31,10 +31,11 @@ jobs:
           BRANCH_NAME: "main"
           UTC_OFFSET: 9
           EXCLUDE: "HTML,Dockerfile,JavaScript"
-          # obsidianはvaultのリポジトリだが、同梱pluginのせいでprimary languageがC#と判定される。
           # commitカードは「コミット先リポジトリのprimary language」に集計するため、
-          # 言語(C#)ではなくリポジトリごと除外するほうが実態に合う
-          EXCLUDE_REPOS: "obsidian"
+          # 中身がコードでないリポジトリはノイズになる。言語単位ではなくリポジトリごと除外する
+          #   obsidian : vault。同梱pluginのせいでprimary languageがC#と判定される
+          #   memo     : ノート置き場。primary languageがJupyter Notebookと判定される
+          EXCLUDE_REPOS: "obsidian,memo"
           # persist-credentials: false のためAction内のpushは使えない。最後のstepで明示的にpushする
           AUTO_PUSH: false
           THEME: "solarized_dark" # 空にすると全テーマ生成
