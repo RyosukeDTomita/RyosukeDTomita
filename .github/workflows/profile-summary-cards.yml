@@ -11,11 +11,18 @@ jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-summary-cards
+    timeout-minutes: 15
     permissions:
-      contents: write # AUTO_PUSH が checkout の GITHUB_TOKEN で push するため必要
+      contents: write # カードの生成結果をpushするため
     steps:
-      - uses: actions/checkout@v4
-      - uses: vn7n24fzkq/github-profile-summary-cards@release
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4.4.0
+        with:
+          persist-credentials: false
+
+      # ActionのEXCLUDEは言語カード2枚に一括で効くため、commit側だけC#を除外したい場合は
+      # 除外リストを変えて2回実行し、commit側のSVGだけ1回目の結果を採用する
+      - name: Generate cards (exclude C# / for the commit card)
+        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
         env:
           # カード生成時のGitHub API問い合わせ用。読み取り権限のみでよい
           GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
@@ -23,6 +30,47 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: 9
-          EXCLUDE: "HTML,Dockerfile,JavaScript"
-          AUTO_PUSH: true
+          EXCLUDE: "HTML,Dockerfile,JavaScript,C#"
+          # persist-credentials: false のためAction内のpushは使えない。最後のstepで明示的にpushする
+          AUTO_PUSH: false
           THEME: "solarized_dark" # 空にすると全テーマ生成
+
+      # Actionは実行のたびに profile-summary-card-output/ を消すので、出力先の外に退避する
+      - name: Stash the commit card
+        run: |
+          set -euo pipefail
+          cp profile-summary-card-output/solarized_dark/2-most-commit-language.svg \
+            "${RUNNER_TEMP}/2-most-commit-language.svg"
+
+      - name: Generate cards (keep C# / for the other cards)
+        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
+        env:
+          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          BRANCH_NAME: "main"
+          UTC_OFFSET: 9
+          EXCLUDE: "HTML,Dockerfile,JavaScript"
+          AUTO_PUSH: false
+          THEME: "solarized_dark"
+
+      - name: Restore the commit card
+        run: |
+          set -euo pipefail
+          mv "${RUNNER_TEMP}/2-most-commit-language.svg" \
+            profile-summary-card-output/solarized_dark/2-most-commit-language.svg
+
+      - name: Commit and push cards
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          set -euo pipefail
+          if [ -z "$(git status --porcelain profile-summary-card-output)" ]; then
+            echo "No card changes"
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add profile-summary-card-output
+          git commit -m 'chore: update profile summary cards'
+          git push "https://x-access-token:${GH_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" "HEAD:${GITHUB_REF_NAME}"
