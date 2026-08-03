@@ -59,8 +59,10 @@ icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
 
 ## My Activity
 
-<!-- カードは .github/workflows/profile-summary-cards.yml が毎日生成して profile-summary-card-output/ にコミットする -->
-![stats](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/3-stats.svg)[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak) <-- I built this badge myself.
+<!-- カードは .github/workflows/profile-cards.yml が毎日生成してコミットする -->
+![stats](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/3-stats.svg)![github readme stats](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/github-readme-stats-output/stats.svg)
+
+[![GitHub Grass Streak](https://ryosukedtomita.github.io/github-grass-streak/github-streak.svg)](https://github.com/RyosukeDTomita/github-grass-streak) <-- I built this badge myself.
 
 ![top language commit](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/2-most-commit-language.svg)![top language repo](https://raw.githubusercontent.com/RyosukeDTomita/RyosukeDTomita/main/profile-summary-card-output/solarized_dark/1-repos-per-language.svg)
 
