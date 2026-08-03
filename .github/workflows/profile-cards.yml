@@ -21,9 +21,7 @@ jobs:
         with:
           persist-credentials: false
 
-      # ActionのEXCLUDEは言語カード2枚に一括で効くため、commit側だけC#を除外したい場合は
-      # 除外リストを変えて2回実行し、commit側のSVGだけ1回目の結果を採用する
-      - name: Generate summary cards (exclude C# / for the commit card)
+      - name: Generate summary cards
         uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
         env:
           # カード生成時のGitHub API問い合わせ用。読み取り権限のみでよい
@@ -32,35 +30,14 @@ jobs:
           USERNAME: ${{ github.repository_owner }}
           BRANCH_NAME: "main"
           UTC_OFFSET: 9
-          EXCLUDE: "HTML,Dockerfile,JavaScript,C#"
+          EXCLUDE: "HTML,Dockerfile,JavaScript"
+          # obsidianはvaultのリポジトリだが、同梱pluginのせいでprimary languageがC#と判定される。
+          # commitカードは「コミット先リポジトリのprimary language」に集計するため、
+          # 言語(C#)ではなくリポジトリごと除外するほうが実態に合う
+          EXCLUDE_REPOS: "obsidian"
           # persist-credentials: false のためAction内のpushは使えない。最後のstepで明示的にpushする
           AUTO_PUSH: false
           THEME: "solarized_dark" # 空にすると全テーマ生成
-
-      # Actionは実行のたびに profile-summary-card-output/ を消すので、出力先の外に退避する
-      - name: Stash the commit card
-        run: |
-          set -euo pipefail
-          cp profile-summary-card-output/solarized_dark/2-most-commit-language.svg \
-            "${RUNNER_TEMP}/2-most-commit-language.svg"
-
-      - name: Generate summary cards (keep C# / for the other cards)
-        uses: vn7n24fzkq/github-profile-summary-cards@d9632798b299e9ad6940449a859c30742eb5b549 # v0.12.0
-        env:
-          GITHUB_TOKEN: ${{ secrets.SUMMARY_GITHUB_TOKEN }}
-        with:
-          USERNAME: ${{ github.repository_owner }}
-          BRANCH_NAME: "main"
-          UTC_OFFSET: 9
-          EXCLUDE: "HTML,Dockerfile,JavaScript"
-          AUTO_PUSH: false
-          THEME: "solarized_dark"
-
-      - name: Restore the commit card
-        run: |
-          set -euo pipefail
-          mv "${RUNNER_TEMP}/2-most-commit-language.svg" \
-            profile-summary-card-output/solarized_dark/2-most-commit-language.svg
 
       # 本家 anuraghazra/github-readme-stats はメンテ終了。後継のstats-organizationが出している
       # 公式Actionを使うと、vercelインスタンスを立てずにSVGを生成できる
