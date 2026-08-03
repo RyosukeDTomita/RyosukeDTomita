@@ -23,37 +23,12 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 ## 🛠️ **Tech Stack**
 
-<table align="center">
-<tr>
-<td width="50%" align="center" valign="top">
-
-### ☁️ **Infrastructure / Cloud**
-<img src="https://skillicons.dev/icons?i=aws,docker,nginx,debian,ubuntu" />
-
-### 🔄 **CI/CD**
-<img src="https://skillicons.dev/icons?i=githubactions" />
-
-### 🛠️ **Development Tools**
-<img src="https://skillicons.dev/icons?i=neovim,vscode,obsidian" />
-
-</td>
-<td width="50%" align="center" valign="top">
-
-### 💻 **Languages**
-<img src="https://skillicons.dev/icons?i=java,lua,py,ts,deno,nodejs,bash,latex,haskell" />
-
-### 📚 **Frameworks**
-<img src="https://skillicons.dev/icons?i=flask,react" />
-
-### 🗄️ **Database**
-<img src="https://skillicons.dev/icons?i=redis,mysql,mongodb" />  
-
-</td>
-</tr>
-</table>
-
-
-icon meanings --> [icon](https://github.com/tandpfun/skill-icons#readme)
+- **Infrastructure**: AWS, nginx, Ubuntu
+- **CI/CD**: GitHub Actions
+- **Editors / Tools**: Neovim, Zed, VS Code, Obsidian
+- **Languages**: Java, Python, TypeScript, Haskell, Lua
+- **Runtimes / Frameworks**: Deno, Spring, Flask
+- **Database**: Redis, (MySQL)
 
 ---
 
