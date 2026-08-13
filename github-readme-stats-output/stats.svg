@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">sigma&#39;s GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 78, Total Commits  (last year) : 1239, Total PRs: 501, Total Issues: 600, Contributed to (last year): 5</desc>
+        <desc id="descId">Total Stars Earned: 78, Total Commits  (last year) : 1241, Total PRs: 501, Total Issues: 600, Contributed to (last year): 5</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 63.13429037996482;
+        stroke-dashoffset: 63.12682768250965;
       }
     }
   
