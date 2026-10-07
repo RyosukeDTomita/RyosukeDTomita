@@ -8,7 +8,7 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 
 ## Hi 👋, I'm sigma. I will be `SUPER HACKER`
 
-I love OSS. I love Vim，Ubuntu，Solarized Dark.
+I love OSS. I love Vim，Ubuntu，Solarized Dark, Haskell.
 
 I've been really into Haskell lately.
 
@@ -26,8 +26,8 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 - **Infrastructure**: AWS, nginx, Ubuntu
 - **CI/CD**: GitHub Actions
 - **Editors / Tools**: Neovim, Zed, VS Code, Obsidian
-- **Languages**: Java, Python, TypeScript, Haskell, Lua, (Lisp / Scheme: Gauche)
-- **Runtimes / Frameworks**: Deno, Spring, Flask
+- **Languages**: Haskell, Java, Python, TypeScript, Lua, (Lisp / Scheme: Gauche)
+- **Runtimes / Frameworks**: (Deno), Spring, Flask
 - **Database**: Redis, (MySQL)
 
 ---
