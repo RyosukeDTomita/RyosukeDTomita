@@ -10,8 +10,6 @@ Reference -> https://jackswim3411.hatenablog.com/entry/2021/09/18/205206
 
 I love OSS. I love Vim，Ubuntu，Solarized Dark, Haskell.
 
-I've been really into Haskell lately.
-
 - **[Profile Pages](https://ryosukedtomita.github.io/MyActivity/)**
 - **[Blog made by Haskell library Hakyll](https://ryosukedtomita.github.io/myblog/)**
 - **[Tech Blog (All)](https://qiita.com/sigma_devsecops)**
@@ -19,16 +17,7 @@ I've been really into Haskell lately.
 
 I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
----
-
-## 🛠️ **Tech Stack**
-
-- **Infrastructure**: AWS, nginx, Ubuntu
-- **CI/CD**: GitHub Actions
-- **Editors / Tools**: Neovim, Zed, VS Code, Obsidian
-- **Languages**: Haskell, Java, Python, TypeScript, Lua, (Lisp / Scheme: Gauche)
-- **Runtimes / Frameworks**: (Deno), Spring, Flask
-- **Database**: Redis, (MySQL)
+### My goal is to work with Haskell! `>>=`
 
 ---
 
