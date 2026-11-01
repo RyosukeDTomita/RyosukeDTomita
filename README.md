@@ -14,8 +14,8 @@ I'm looking for [Github sponsers](https://github.com/sponsors/RyosukeDTomita)
 
 
 - I also write the tech blog and talk at technical conference, LT.
-  - [Qiita](https://qiita.com/sigma_devsecops): Japanese
-  - [Zenn](https://zenn.dev/sigma_tom): You can read in English(Zenn's automatic translation feature)
+  - [Qiita](https://qiita.com/sigma_devsecops): Tech blog(Japanese only)
+  - [Zenn](https://zenn.dev/sigma_tom): Tech blog Japanese and English(Zenn's automatic translation feature).
   - [Presentation Material](https://speakerdeck.com/ryosukedtomita)
 ---
 
